@@ -10,7 +10,7 @@
 
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZAucuyhqTstHt2oSl9qFlseTIfnU-JzYgLC)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Uygulamalari-Kursu-18-Ocak-2025/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Uygulamalari-Kursu-18-Ocak-2025/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Uygulamalari-Kursu-18-Ocak-2025/blob/main/sss.md)
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZElduqsrz8rEtX7wpGHjGqeNM4Aw0YrQWsE#/registration)
