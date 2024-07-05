@@ -1,4 +1,4 @@
-# Online Python Programlama Dili ve Uygulamaları Kursu <br> - Uygulama Kısmı (230 saat)
+# Online Python  Uygulamaları Kursu <br> - Uygulama Kısmı (230 saat)
 
 * __Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi__
     * Standart Kütüphanede Tarih ve Zaman İşlemleri Yapan Fonksiyonların ve Sınıfların Kullanımı
