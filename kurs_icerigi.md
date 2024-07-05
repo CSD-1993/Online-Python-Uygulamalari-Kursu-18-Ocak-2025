@@ -103,4 +103,4 @@
    * Python'dan C ve C++ Kodlarının Çağrılması
 
 # Kursa Kayıt
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZMtfuuurDktHtM366iqSdL668-zoBFLGmdx#/registration)
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZElduqsrz8rEtX7wpGHjGqeNM4Aw0YrQWsE#/registration)
