@@ -17,4 +17,4 @@ Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafınd
 
 # Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-__[Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZElduqsrz8rEtX7wpGHjGqeNM4Aw0YrQWsE#/registration)__
+__[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZElduqsrz8rEtX7wpGHjGqeNM4Aw0YrQWsE#/registration)__
