@@ -13,4 +13,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Uygulamalari-Kursu-18-Ocak-2025/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Uygulamalari-Kursu-18-Ocak-2025/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Uygulamalari-Kursu-18-Ocak-2025/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZElduqsrz8rEtX7wpGHjGqeNM4Aw0YrQWsE#/registration)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZElduqsrz8rEtX7wpGHjGqeNM4Aw0YrQWsE#/registration)
